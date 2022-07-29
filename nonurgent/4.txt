@@ -1,0 +1,18 @@
+Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de XXX, je vous écoute ?</s></p></speak> 
+Exact 
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+c'est mon robinet.
+Très bien. Est-ce un robinet d'arrêt ?
+non
+C'est noté. Quel élément est concerné ? S'agit-il d'un évier, un lavabo, une douche ou une baignoire ?
+lavabo
+Entendu. Est-il équipé d'une douchette ?
+jcroi pas
+Entendu. Pour affiner le diagnostic, j'ai besoin de savoir s'il s'agit d'un mitigeur ou mélangeur ?
+non mélangeur
+Entendu, je comprends qu'il s'agit d'un mélangeur. C'est bien ça ?
+oui
+Très bien. L'adresse d'intervention est le XXX, est-ce correct ?
+oui
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.
+

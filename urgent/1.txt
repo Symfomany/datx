@@ -1,0 +1,15 @@
+<s><p><speak> Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de XXX, je vous écoute ?</s></p></speak> 
+Oui c’est ça
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Bah c'est problème d'engorgement 
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Un seul je crois
+Très bien, quel est l'élément engorgé ? S'agit-il par exemple des toilettes ? Un évier ? Un lavabo ? Une douche ?
+C’est mes toilettes ! 
+Entendu, je comprends qu'il s'agit d'un engorgement de vos toilettes, c'est bien ça ?
+Oui
+Entendu. Constatez-vous également un engorgement à l'extérieur, au niveau d'un regard ou d'une canalisation par exemple ?
+Oui
+Très bien. L'adresse d'intervention est le XXX, est-ce correct ?
+Oui
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.

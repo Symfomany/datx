@@ -1,0 +1,8 @@
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de XXX, je vous écoute ?</s></p></speak>
+Oui 
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+c'est une fuite
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+à l'intérieur
+c'est ne fuite d'eau au niveau du tuyau de la machine à la baie
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.
