@@ -1,0 +1,75 @@
+WELCOME
+Event
+Aug 4, 10:34 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean cintrat, je vous écoute ?</s></p></speak>
+Aug 4, 10:34 AM
+
+USER
+oui
+Aug 4, 10:34 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 10:34 AM
+
+USER
+c'est une fuite au pas la nourrice
+Aug 4, 10:35 AM
+AGENT
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+Aug 4, 10:35 AM
+
+USER
+lance est dans le garage
+Aug 4, 10:35 AM
+AGENT
+No matched intent
+Aug 4, 10:35 AM
+
+USER
+à l'intérieur
+Aug 4, 10:35 AM
+AGENT
+C'est noté. La fuite est-elle sur une canalisation apparente ?
+Aug 4, 10:35 AM
+
+USER
+oui
+Aug 4, 10:35 AM
+AGENT
+Très bien. S'agit-il d'une canalisation sur circuit de chauffage ?
+Aug 4, 10:35 AM
+
+USER
+non
+Aug 4, 10:36 AM
+AGENT
+Très bien. Pour affiner le diagnostic, j'ai besoin de savoir si la fuite vient d'une canalisation d'alimentation ou d'évacuation. Pour cela, pouvez-vous me dire si la fuite est permanente, ou si c'est uniquement quand vous utilisez de l'eau ?
+Aug 4, 10:36 AM
+
+USER
+c'est une secheuse sur la nourrice que j'ai dans le garage et c'est cool ça moi j'étais obligé de couper l'eau
+Aug 4, 10:36 AM
+AGENT
+No matched intent
+Aug 4, 10:36 AM
+
+USER
+permanente
+Aug 4, 10:36 AM
+AGENT
+Très bien. Je comprends que la fuite est permanente, c'est bien ça ?
+Aug 4, 10:36 AM
+
+USER
+oui
+Aug 4, 10:36 AM
+AGENT
+Très bien. L'adresse d'intervention est le 2 t chemin des cooperatives 11120 saint marcel sur aude, est-ce correct ?
+Aug 4, 10:36 AM
+
+USER
+c'est correct
+Aug 4, 10:37 AM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.

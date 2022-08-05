@@ -1,0 +1,40 @@
+WELCOME
+Event
+Aug 4, 8:17 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de maryse aguilera, je vous écoute ?</s></p></speak>
+Aug 4, 8:17 AM
+
+USER
+oui
+Aug 4, 8:17 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 8:17 AM
+
+USER
+chasse d'eau
+Aug 4, 8:17 AM
+AGENT
+C'est noté. S'agit-il d'un WC avec réservoir encastré ? Avec réservoir apparent ? ou est-ce un sanibroyeur ?
+Aug 4, 8:17 AM
+
+USER
+réservoir encastré
+Aug 4, 8:17 AM
+AGENT
+Entendu, je comprends qu'il s'agit d'un Réservoir encastré. C'est bien ça ?
+Aug 4, 8:17 AM
+
+USER
+oui
+Aug 4, 8:18 AM
+AGENT
+Très bien. L'adresse d'intervention est le 7 lotissement pages 82340 dunes, est-ce correct ?
+Aug 4, 8:18 AM
+
+USER
+oui
+Aug 4, 8:18 AM
+AGENT
+Nous avons tenté de déclencher l'intervention. Merci de patienter, un chargé d'assistance va prendre votre appel.

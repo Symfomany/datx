@@ -1,0 +1,15 @@
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean claude szarindar, je vous écoute ?</s></p></speak>
+oui
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+chateau
+C'est noté. S'agit-il d'un WC avec réservoir encastré ? Avec réservoir apparent ? ou est-ce un sanibroyeur ?
+réservoir encastré
+Entendu, je comprends qu'il s'agit d'un Réservoir encastré. C'est bien ça ?
+oui
+Très bien. L'adresse d'intervention est le 4 alle debussy 93270 sevran, est-ce correct ?
+correct
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.
+
+
+
+

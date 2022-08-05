@@ -1,0 +1,26 @@
+WELCOME
+Event
+Aug 3, 6:10 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de mahmoud & hanane nabbat, je vous écoute ?</s></p></speak>
+Aug 3, 6:10 PM
+
+USER
+oui
+Aug 3, 6:11 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 6:11 PM
+
+USER
+chaudière
+Aug 3, 6:11 PM
+AGENT
+No matched intent
+Aug 3, 6:11 PM
+
+USER
+ballon d'eau chaude
+Aug 3, 6:11 PM
+AGENT
+Entendu. Je comprends que vous n'avez plus d'eau. Merci de patienter un chargé d'assistance va traiter votre demande.

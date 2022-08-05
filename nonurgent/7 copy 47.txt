@@ -1,0 +1,54 @@
+WELCOME
+Event
+Aug 4, 8:45 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de hubert rapenne, je vous écoute ?</s></p></speak>
+Aug 4, 8:45 AM
+
+USER
+oui madame c'est exact
+Aug 4, 8:45 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 8:45 AM
+
+USER
+ou alors c'était la chasse d'eau et en même temps j'ai un robinet dans la salle de bain qui ne marche plus depuis très longtemps
+Aug 4, 8:45 AM
+AGENT
+C'est noté. S'agit-il d'un WC avec réservoir encastré ? Avec réservoir apparent ? ou est-ce un sanibroyeur ?
+Aug 4, 8:45 AM
+
+USER
+réservoir parent
+Aug 4, 8:45 AM
+AGENT
+Entendu, je comprends qu'il s'agit d'un Réservoir apparent. C'est bien ça ?
+Aug 4, 8:45 AM
+
+USER
+oui c'est c'est à l'endroit même où on ouvre
+Aug 4, 8:46 AM
+AGENT
+No matched intent
+Aug 4, 8:46 AM
+
+USER
+oui
+Aug 4, 8:46 AM
+AGENT
+Très bien. L'adresse d'intervention est le 5 chemin d harrieta 64250 cambo les bains, est-ce correct ?
+Aug 4, 8:46 AM
+
+USER
+64 / 5
+Aug 4, 8:46 AM
+AGENT
+No matched intent
+Aug 4, 8:46 AM
+
+USER
+oui c'est ça
+Aug 4, 8:46 AM
+AGENT
+Nous avons tenté de déclencher l'intervention. Merci de patienter, un chargé d'assistance va prendre votre appel.

@@ -1,0 +1,40 @@
+WELCOME
+Event
+Aug 4, 10:21 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de louis guillen, je vous écoute ?</s></p></speak>
+Aug 4, 10:21 AM
+
+USER
+oui
+Aug 4, 10:21 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 10:21 AM
+
+USER
+chasse d'eau
+Aug 4, 10:21 AM
+AGENT
+C'est noté. S'agit-il d'un WC avec réservoir encastré ? Avec réservoir apparent ? ou est-ce un sanibroyeur ?
+Aug 4, 10:21 AM
+
+USER
+réservoir parent 2
+Aug 4, 10:22 AM
+AGENT
+Entendu, je comprends qu'il s'agit d'un Réservoir apparent. C'est bien ça ?
+Aug 4, 10:22 AM
+
+USER
+oui il y en a deux
+Aug 4, 10:22 AM
+AGENT
+Très bien. L'adresse d'intervention est le 5 rue anciens combattants de l afn 64270 salies de bearn, est-ce correct ?
+Aug 4, 10:22 AM
+
+USER
+oui
+Aug 4, 10:22 AM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.

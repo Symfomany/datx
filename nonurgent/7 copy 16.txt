@@ -1,0 +1,17 @@
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean claude szarindar, je vous écoute ?</s></p></speak>
+oui
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+oui
+Très bien. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+engorgement
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+un seul
+Très bien, quel est l'élément engorgé ? S'agit-il par exemple des toilettes ? Un évier ? Un lavabo ? Une douche ?
+lavabo
+Entendu, je comprends qu'il s'agit d'un engorgement de votre lavabo, c'est bien ça ?
+oui
+Entendu. Constatez-vous également un engorgement à l'extérieur, au niveau d'un regard ou d'une canalisation par exemple ?
+non
+Très bien. L'adresse d'intervention est le 22 rue du general exelmans 78140 velizy villacoublay, est-ce correct ?
+oui
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.

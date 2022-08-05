@@ -1,0 +1,61 @@
+WELCOME
+Event
+Aug 3, 4:23 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de alain viquerat, je vous écoute ?</s></p></speak>
+Aug 3, 4:23 PM
+
+USER
+oui
+Aug 3, 4:23 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 4:23 PM
+
+USER
+engorgement
+Aug 3, 4:23 PM
+AGENT
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Aug 3, 4:23 PM
+
+USER
+un seul
+Aug 3, 4:24 PM
+AGENT
+Très bien, quel est l'élément engorgé ? S'agit-il par exemple des toilettes ? Un évier ? Un lavabo ? Une douche ?
+Aug 3, 4:24 PM
+
+USER
+lavabo salle de bain
+Aug 3, 4:24 PM
+AGENT
+No matched intent
+Aug 3, 4:24 PM
+
+USER
+lavabo
+Aug 3, 4:24 PM
+AGENT
+Entendu, je comprends qu'il s'agit d'un engorgement de votre lavabo, c'est bien ça ?
+Aug 3, 4:24 PM
+
+USER
+oui
+Aug 3, 4:24 PM
+AGENT
+Entendu. Constatez-vous également un engorgement à l'extérieur, au niveau d'un regard ou d'une canalisation par exemple ?
+Aug 3, 4:24 PM
+
+USER
+non
+Aug 3, 4:24 PM
+AGENT
+Très bien. L'adresse d'intervention est le 37 rue des bouleaux 91140 villebon sur yvette, est-ce correct ?
+Aug 3, 4:24 PM
+
+USER
+oui
+Aug 3, 4:25 PM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.

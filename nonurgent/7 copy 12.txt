@@ -1,0 +1,17 @@
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean claude szarindar, je vous écoute ?</s></p></speak>
+oui
+suite
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+intérieur du logement
+C'est noté. La fuite est-elle sur une canalisation apparente ?
+oui
+Très bien. S'agit-il d'une canalisation sur circuit de chauffage ?
+non
+Très bien. Pour affiner le diagnostic, j'ai besoin de savoir si la fuite vient d'une canalisation d'alimentation ou d'évacuation. Pour cela, pouvez-vous me dire si la fuite est permanente, ou si c'est uniquement quand vous utilisez de l'eau ?
+permanente je pense
+Très bien. Je comprends que la fuite est permanente, c'est bien ça ?
+oui
+Très bien. L'adresse d'intervention est le 8 rue claude debussy 13340 rognac, est-ce correct ?
+oui
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.
+

@@ -1,0 +1,19 @@
+WELCOME
+Event
+Aug 4, 9:05 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de yvonne dufour, je vous écoute ?</s></p></speak>
+Aug 4, 9:05 AM
+
+USER
+oui
+Aug 4, 9:06 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 9:06 AM
+
+USER
+engorgement
+Aug 4, 9:06 AM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

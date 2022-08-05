@@ -1,0 +1,5 @@
+WELCOME
+Event
+Aug 4, 10:53 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de gerard dujardin, je vous écoute ?</s></p></speak>

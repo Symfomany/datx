@@ -1,0 +1,67 @@
+WELCOME
+Event
+Aug 3, 5:05 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de catherine et josé exposito, je vous écoute ?</s></p></speak>
+Aug 3, 5:05 PM
+
+USER
+wish
+Aug 3, 5:05 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 5:05 PM
+
+USER
+frites
+Aug 3, 5:06 PM
+AGENT
+Aug 3, 5:06 PM
+
+USER
+j'ai compris pas
+Aug 3, 5:06 PM
+AGENT
+No matched intent
+Aug 3, 5:06 PM
+
+USER
+la frite à l'intérieur
+Aug 3, 5:06 PM
+AGENT
+C'est noté. La fuite est-elle sur une canalisation apparente ?
+Aug 3, 5:06 PM
+
+USER
+oui
+Aug 3, 5:06 PM
+AGENT
+Très bien. S'agit-il d'une canalisation sur circuit de chauffage ?
+Aug 3, 5:06 PM
+
+USER
+non
+Aug 3, 5:06 PM
+AGENT
+Très bien. Pour affiner le diagnostic, j'ai besoin de savoir si la fuite vient d'une canalisation d'alimentation ou d'évacuation. Pour cela, pouvez-vous me dire si la fuite est permanente, ou si c'est uniquement quand vous utilisez de l'eau ?
+Aug 3, 5:06 PM
+
+USER
+quand on utilise de l'eau
+Aug 3, 5:07 PM
+AGENT
+Très bien. Je comprends que la fuite est uniquement quand vous utilisez de l'eau, c'est bien ça ?
+Aug 3, 5:07 PM
+
+USER
+oui
+Aug 3, 5:07 PM
+AGENT
+Très bien. L'adresse d'intervention est le 7 rue victor gouffe 95400 villiers le bel, est-ce correct ?
+Aug 3, 5:07 PM
+
+USER
+oui
+Aug 3, 5:07 PM
+AGENT
+Nous avons tenté de déclencher l'intervention. Merci de patienter, un chargé d'assistance va prendre votre appel.

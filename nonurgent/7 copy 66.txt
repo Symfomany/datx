@@ -1,0 +1,54 @@
+WELCOME
+Event
+Aug 3, 5:52 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de christian maraval, je vous écoute ?</s></p></speak>
+Aug 3, 5:52 PM
+
+USER
+oui
+Aug 3, 5:53 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 5:53 PM
+
+USER
+engagement
+Aug 3, 5:53 PM
+AGENT
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Aug 3, 5:53 PM
+
+USER
+j'en 16
+Aug 3, 5:53 PM
+AGENT
+Entendu. Ces éléments engorgés sont-ils situés dans différentes pièces de votre habitation ou dans une seule pièce ?
+Aug 3, 5:53 PM
+
+USER
+une seule pièce
+Aug 3, 5:53 PM
+AGENT
+Entendu, je comprends que tous les éléments bouchés se situent dans une seule pièce. C'est bien ça ?
+Aug 3, 5:53 PM
+
+USER
+oui
+Aug 3, 5:54 PM
+AGENT
+Entendu. Constatez-vous également un engorgement à l'extérieur, au niveau d'un regard ou d'une canalisation par exemple ?
+Aug 3, 5:54 PM
+
+USER
+je sais pas
+Aug 3, 5:54 PM
+AGENT
+Très bien. L'adresse d'intervention est le 44 alle de la gatine 31770 colomiers, est-ce correct ?
+Aug 3, 5:54 PM
+
+USER
+oui
+Aug 3, 5:54 PM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez recevoir un SMS de notre part. Notre prestataire va vous rappeler dès demain matin pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne soirée.

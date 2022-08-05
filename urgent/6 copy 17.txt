@@ -1,0 +1,60 @@
+WELCOME
+Event
+Aug 4, 7:57 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean-claude zurcher, je vous écoute ?</s></p></speak>
+Aug 4, 7:57 AM
+
+USER
+oui
+Aug 4, 7:58 AM
+AGENT
+Aug 4, 7:58 AM
+
+USER
+allô
+Aug 4, 7:58 AM
+AGENT
+No matched intent
+Aug 4, 7:58 AM
+
+USER
+fruit tu es encore genant
+Aug 4, 7:58 AM
+AGENT
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Aug 4, 7:58 AM
+
+USER
+plusieurs
+Aug 4, 7:58 AM
+AGENT
+Entendu. Ces éléments engorgés sont-ils situés dans différentes pièces de votre habitation ou dans une seule pièce ?
+Aug 4, 7:58 AM
+
+USER
+cuisine
+Aug 4, 7:58 AM
+AGENT
+No matched intent
+Aug 4, 7:58 AM
+
+USER
+une seule pièce
+Aug 4, 7:59 AM
+AGENT
+Entendu, je comprends que tous les éléments bouchés se situent dans une seule pièce. C'est bien ça ?
+Aug 4, 7:59 AM
+
+USER
+oui
+Aug 4, 7:59 AM
+AGENT
+Entendu. Constatez-vous également un engorgement à l'extérieur, au niveau d'un regard ou d'une canalisation par exemple ?
+Aug 4, 7:59 AM
+
+USER
+non
+Aug 4, 7:59 AM
+AGENT
+Entendu. Merci de patienter, un chargé d’assistance va prendre votre appel.

@@ -1,0 +1,54 @@
+WELCOME
+Event
+Aug 3, 1:14 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jacques vuilleumier, je vous écoute ?</s></p></speak>
+Aug 3, 1:14 PM
+
+USER
+oui
+Aug 3, 1:14 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 1:14 PM
+
+USER
+ok qu'est-ce que je dois dire là
+Aug 3, 1:14 PM
+AGENT
+No matched intent
+Aug 3, 1:14 PM
+
+USER
+frites
+Aug 3, 1:14 PM
+AGENT
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+Aug 3, 1:14 PM
+
+USER
+à l'intérieur de l'habitation dans la cuisine
+Aug 3, 1:15 PM
+AGENT
+C'est noté. La fuite est-elle sur une canalisation apparente ?
+Aug 3, 1:15 PM
+
+USER
+la fuite
+Aug 3, 1:15 PM
+AGENT
+Entendu. Est-ce un robinet d'arrêt d'alimentation des WC ?
+Aug 3, 1:15 PM
+
+USER
+pas vrai non dans la cuisine y a pas de vaisselle
+Aug 3, 1:15 PM
+AGENT
+No matched intent
+Aug 3, 1:15 PM
+
+USER
+c'est une cuisine et au général dans les cuisines il n'y a pas de WC c'est un lavabo dans la cuisine
+Aug 3, 1:15 PM
+AGENT
+No matched intent

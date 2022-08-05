@@ -1,0 +1,13 @@
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean claude szarindar, je vous écoute ?</s></p></speak>
+oui
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+robinet Tori frites
+voilà
+oui
+C'est noté. Est-ce à l'intérieur de votre logement ou à l'extérieur, comme dans une cour ou un jardin ?
+intérieur
+Entendu. Est-ce un robinet d'arrêt d'alimentation des WC ?
+snow
+non
+redirect-agent
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

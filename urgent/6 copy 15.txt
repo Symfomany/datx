@@ -1,0 +1,68 @@
+WELCOME
+Event
+Aug 4, 8:31 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de therese gaudry, je vous écoute ?</s></p></speak>
+Aug 4, 8:31 AM
+
+USER
+oui
+Aug 4, 8:32 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 8:32 AM
+
+USER
+frites
+Aug 4, 8:32 AM
+AGENT
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+Aug 4, 8:32 AM
+
+USER
+intérieur
+Aug 4, 8:32 AM
+AGENT
+C'est noté. La fuite est-elle sur une canalisation apparente ?
+Aug 4, 8:32 AM
+
+USER
+oui
+Aug 4, 8:32 AM
+AGENT
+Très bien. S'agit-il d'une canalisation sur circuit de chauffage ?
+Aug 4, 8:32 AM
+
+USER
+waouh
+Aug 4, 8:32 AM
+AGENT
+No matched intent
+Aug 4, 8:32 AM
+
+USER
+non
+Aug 4, 8:33 AM
+AGENT
+Très bien. Pour affiner le diagnostic, j'ai besoin de savoir si la fuite vient d'une canalisation d'alimentation ou d'évacuation. Pour cela, pouvez-vous me dire si la fuite est permanente, ou si c'est uniquement quand vous utilisez de l'eau ?
+Aug 4, 8:33 AM
+
+USER
+permanente
+Aug 4, 8:33 AM
+AGENT
+Très bien. Je comprends que la fuite est permanente, c'est bien ça ?
+Aug 4, 8:33 AM
+
+USER
+oui
+Aug 4, 8:33 AM
+AGENT
+Très bien. L'adresse d'intervention est le 9 chemin tricou 31200 toulouse, est-ce correct ?
+Aug 4, 8:33 AM
+
+USER
+oui
+Aug 4, 8:33 AM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.

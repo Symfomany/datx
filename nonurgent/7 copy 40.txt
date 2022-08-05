@@ -1,0 +1,47 @@
+WELCOME
+Event
+Aug 4, 9:39 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de martine wolff, je vous écoute ?</s></p></speak>
+Aug 4, 9:39 AM
+
+USER
+oui
+Aug 4, 9:39 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 9:39 AM
+
+USER
+un problème de encore je mens
+Aug 4, 9:39 AM
+AGENT
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Aug 4, 9:39 AM
+
+USER
+plusieurs
+Aug 4, 9:40 AM
+AGENT
+Entendu. Ces éléments engorgés sont-ils situés dans différentes pièces de votre habitation ou dans une seule pièce ?
+Aug 4, 9:40 AM
+
+USER
+différentes pièces
+Aug 4, 9:40 AM
+AGENT
+Entendu, je comprends que tous les éléments bouchés se situent dans différentes pièces. C'est bien ça ?
+Aug 4, 9:40 AM
+
+USER
+oui
+Aug 4, 9:40 AM
+AGENT
+Très bien. L'adresse d'intervention est le 167 alle pissaro 83130 la garde, est-ce correct ?
+Aug 4, 9:40 AM
+
+USER
+oui
+Aug 4, 9:40 AM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne journée.

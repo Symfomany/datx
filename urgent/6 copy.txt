@@ -1,0 +1,48 @@
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de claude devic, je vous écoute ?</s></p></speak>
+Aug 4, 11:30 AM
+
+USER
+oui
+Aug 4, 11:30 AM
+AGENT
+Aug 4, 11:30 AM
+
+USER
+Event
+Aug 4, 11:30 AM
+AGENT
+No matched intent
+Aug 4, 11:30 AM
+
+USER
+oui
+Aug 4, 11:31 AM
+AGENT
+Très bien. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 11:31 AM
+
+USER
+fuite
+Aug 4, 11:31 AM
+AGENT
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+Aug 4, 11:31 AM
+
+USER
+extérieur
+Aug 4, 11:31 AM
+AGENT
+Aug 4, 11:31 AM
+
+USER
+Event
+Aug 4, 11:31 AM
+AGENT
+No matched intent
+Aug 4, 11:31 AM
+
+USER
+non
+Aug 4, 11:32 AM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

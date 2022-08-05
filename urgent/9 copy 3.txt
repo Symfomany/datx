@@ -1,0 +1,26 @@
+WELCOME
+Event
+Aug 4, 10:56 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de dominique fulcheri, je vous écoute ?</s></p></speak>
+Aug 4, 10:56 AM
+
+USER
+je vous confirme le contrat au nom de Dominique suggérer
+Aug 4, 10:57 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 10:57 AM
+
+USER
+de fuite
+Aug 4, 10:57 AM
+AGENT
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+Aug 4, 10:57 AM
+
+USER
+je ne parviens pas à localiser la fuite
+Aug 4, 10:57 AM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

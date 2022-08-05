@@ -1,0 +1,60 @@
+WELCOME
+Event
+Aug 3, 1:26 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de andre et annie thiault, je vous écoute ?</s></p></speak>
+Aug 3, 1:26 PM
+
+USER
+oui
+Aug 3, 1:26 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 1:26 PM
+
+USER
+encore je mens
+Aug 3, 1:27 PM
+AGENT
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Aug 3, 1:27 PM
+
+USER
+Event
+Aug 3, 1:27 PM
+AGENT
+No matched intent
+Aug 3, 1:27 PM
+
+USER
+alors
+Aug 3, 1:27 PM
+AGENT
+Entendu. Ces éléments engorgés sont-ils situés dans différentes pièces de votre habitation ou dans une seule pièce ?
+Aug 3, 1:27 PM
+
+USER
+bien sûr que sa mémoire
+Aug 3, 1:28 PM
+AGENT
+Merci de préciser le nombre de pièces de votre habitation concernées : une seule ou plusieurs ?
+Aug 3, 1:28 PM
+
+USER
+une
+Aug 3, 1:28 PM
+AGENT
+Entendu, je comprends que tous les éléments bouchés se situent dans une seule pièce. C'est bien ça ?
+Aug 3, 1:28 PM
+
+USER
+oui
+Aug 3, 1:28 PM
+AGENT
+Aug 3, 1:28 PM
+
+USER
+non
+Aug 3, 1:28 PM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

@@ -1,0 +1,26 @@
+WELCOME
+Event
+Aug 4, 10:20 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de bernard frey, je vous écoute ?</s></p></speak>
+Aug 4, 10:20 AM
+
+USER
+oui
+Aug 4, 10:20 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 10:20 AM
+
+USER
+mon encore genant des toilettes
+Aug 4, 10:20 AM
+AGENT
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Aug 4, 10:20 AM
+
+USER
+je ne sais pas trop
+Aug 4, 10:20 AM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

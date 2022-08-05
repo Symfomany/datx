@@ -1,0 +1,62 @@
+
+WELCOME
+Event
+Aug 3, 12:29 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de joseph ignace, je vous écoute ?</s></p></speak>
+Aug 3, 12:29 PM
+
+USER
+oui
+Aug 3, 12:29 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 12:29 PM
+
+USER
+frites
+Aug 3, 12:29 PM
+AGENT
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+Aug 3, 12:29 PM
+
+USER
+dans un jardin
+Aug 3, 12:30 PM
+AGENT
+C'est noté. La fuite est-elle sur une canalisation apparente ?
+Aug 3, 12:30 PM
+
+USER
+oui
+Aug 3, 12:30 PM
+AGENT
+Très bien. S'agit-il d'une canalisation sur circuit de chauffage ?
+Aug 3, 12:30 PM
+
+USER
+non
+Aug 3, 12:30 PM
+AGENT
+Très bien. Pour affiner le diagnostic, j'ai besoin de savoir si la fuite vient d'une canalisation d'alimentation ou d'évacuation. Pour cela, pouvez-vous me dire si la fuite est permanente, ou si c'est uniquement quand vous utilisez de l'eau ?
+Aug 3, 12:30 PM
+
+USER
+utilise de l'eau
+Aug 3, 12:30 PM
+AGENT
+Très bien. Je comprends que la fuite est uniquement quand vous utilisez de l'eau, c'est bien ça ?
+Aug 3, 12:30 PM
+
+USER
+oui
+Aug 3, 12:30 PM
+AGENT
+Très bien. L'adresse d'intervention est le 22 avenue de guyenne 78450 villepreux, est-ce correct ?
+Aug 3, 12:30 PM
+
+USER
+oui
+Aug 3, 12:30 PM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

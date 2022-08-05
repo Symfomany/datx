@@ -11,3 +11,5 @@ oui
 Entendu. Constatez-vous également un engorgement à l'extérieur, au niveau d'un regard ou d'une canalisation par exemple ?
 non
 Très bien. L'adresse d'intervention est le XXX, est-ce correct ?
+exact
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

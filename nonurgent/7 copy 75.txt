@@ -1,0 +1,68 @@
+WELCOME
+Event
+Aug 3, 2:23 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean-louis simon, je vous écoute ?</s></p></speak>
+Aug 3, 2:23 PM
+
+USER
+j'ai Simon
+Aug 3, 2:24 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 2:24 PM
+
+USER
+fuite est robinet
+Aug 3, 2:24 PM
+AGENT
+Très bien. Est-ce un robinet d'arrêt ?
+Aug 3, 2:24 PM
+
+USER
+non
+Aug 3, 2:24 PM
+AGENT
+C'est noté. Quel élément est concerné ? S'agit-il d'un évier, un lavabo, une douche ou une baignoire ?
+Aug 3, 2:24 PM
+
+USER
+lavabo
+Aug 3, 2:24 PM
+AGENT
+Entendu. Est-il équipé d'une douchette ?
+Aug 3, 2:24 PM
+
+USER
+non
+Aug 3, 2:24 PM
+AGENT
+Entendu. Pour affiner le diagnostic, j'ai besoin de savoir s'il s'agit d'un mitigeur ou mélangeur ?
+Aug 3, 2:24 PM
+
+USER
+mélangeur
+Aug 3, 2:24 PM
+AGENT
+Entendu, je comprends qu'il s'agit d'un mélangeur. C'est bien ça ?
+Aug 3, 2:24 PM
+
+USER
+oui
+Aug 3, 2:25 PM
+AGENT
+Très bien. L'adresse d'intervention est le quartier plan du noyer 83780 flayosc, est-ce correct ?
+Aug 3, 2:25 PM
+
+USER
+161 impasse du canonnier 83 60 80 players oui
+Aug 3, 2:25 PM
+AGENT
+No matched intent
+Aug 3, 2:25 PM
+
+USER
+Event
+Aug 3, 2:25 PM
+AGENT
+No matched intent

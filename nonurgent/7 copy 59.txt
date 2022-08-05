@@ -1,0 +1,40 @@
+WELCOME
+Event
+Aug 3, 6:57 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de pierrette brochon, je vous écoute ?</s></p></speak>
+Aug 3, 6:57 PM
+
+USER
+c'est oui mon numéro je suis bien madame Pierrette Brochu non
+Aug 3, 6:57 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 6:57 PM
+
+USER
+défi de la chasse d'eau
+Aug 3, 6:57 PM
+AGENT
+C'est noté. S'agit-il d'un WC avec réservoir encastré ? Avec réservoir apparent ? ou est-ce un sanibroyeur ?
+Aug 3, 6:57 PM
+
+USER
+réservoir parent
+Aug 3, 6:57 PM
+AGENT
+Entendu, je comprends qu'il s'agit d'un Réservoir apparent. C'est bien ça ?
+Aug 3, 6:57 PM
+
+USER
+oui c'est ça c'est cela
+Aug 3, 6:57 PM
+AGENT
+Très bien. L'adresse d'intervention est le 33 rue jean moulin 17110 saint georges de didonne, est-ce correct ?
+Aug 3, 6:57 PM
+
+USER
+c'est correct madame
+Aug 3, 6:58 PM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez recevoir un SMS de notre part. Notre prestataire va vous rappeler dès demain matin pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne soirée.

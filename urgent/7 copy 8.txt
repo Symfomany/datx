@@ -1,0 +1,68 @@
+WELCOME
+Event
+Aug 3, 5:00 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de marie georgiou, je vous écoute ?</s></p></speak>
+Aug 3, 5:00 PM
+
+USER
+oui
+Aug 3, 5:00 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 5:00 PM
+
+USER
+de robinetterie
+Aug 3, 5:00 PM
+AGENT
+Très bien. Est-ce un robinet d'arrêt ?
+Aug 3, 5:00 PM
+
+USER
+non non c'est une comment dire
+Aug 3, 5:00 PM
+AGENT
+No matched intent
+Aug 3, 5:00 PM
+
+USER
+non c'était
+Aug 3, 5:00 PM
+AGENT
+C'est noté. Quel élément est concerné ? S'agit-il d'un évier, un lavabo, une douche ou une baignoire ?
+Aug 3, 5:00 PM
+
+USER
+Olivier
+Aug 3, 5:01 PM
+AGENT
+Entendu. Est-il équipé d'une douchette ?
+Aug 3, 5:01 PM
+
+USER
+non c'est c'est dans la cuisine
+Aug 3, 5:01 PM
+AGENT
+No matched intent
+Aug 3, 5:01 PM
+
+USER
+non
+Aug 3, 5:01 PM
+AGENT
+Entendu. Pour affiner le diagnostic, j'ai besoin de savoir s'il s'agit d'un mitigeur ou mélangeur ?
+Aug 3, 5:01 PM
+
+USER
+non
+Aug 3, 5:01 PM
+AGENT
+No matched intent
+Aug 3, 5:01 PM
+
+USER
+non c'est c'est dans les l'évier de la cuisine
+Aug 3, 5:01 PM
+AGENT
+No matched intent

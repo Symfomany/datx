@@ -1,0 +1,16 @@
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean claude szarindar, je vous écoute ?</s></p></speak>
+oui
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+frites
+Entendu. Pouvez-vous préciser si la fuite se situe à l'intérieur de votre habitation, à l'extérieur comme dans une cour ou un jardin, ou bien vous ne parvenez pas à localiser la fuite ?
+c'est dans mon garage je n'ai pas à te dans à la maison
+intérieur
+C'est noté. La fuite est-elle sur une canalisation apparente ?
+oui
+Très bien. S'agit-il d'une canalisation sur circuit de chauffage ?
+non
+Très bien. Pour affiner le diagnostic, j'ai besoin de savoir si la fuite vient d'une canalisation d'alimentation ou d'évacuation. Pour cela, pouvez-vous me dire si la fuite est permanente, ou si c'est uniquement quand vous utilisez de l'eau ?
+non c'est permanente j'étais obligé de couper l'eau
+Très bien. Je comprends que la fuite est uniquement quand vous utilisez de l'eau, c'est bien ça ?
+je suis obligé de couper le colo
+bien sûr que Robin est ouvert oui

@@ -1,0 +1,54 @@
+WELCOME
+Event
+Aug 3, 4:11 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de michel blanc, je vous écoute ?</s></p></speak>
+Aug 3, 4:11 PM
+
+USER
+oui c'est bien au nom de Michel Blanc
+Aug 3, 4:11 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 4:11 PM
+
+USER
+un problème d'engagement
+Aug 3, 4:11 PM
+AGENT
+C'est noté. Merci de préciser le nombre d'éléments engorgés : un seul ou plusieurs ?
+Aug 3, 4:11 PM
+
+USER
+les l'évacuation des eaux usées de toute la maison
+Aug 3, 4:11 PM
+AGENT
+Entendu. Ces éléments engorgés sont-ils situés dans différentes pièces de votre habitation ou dans une seule pièce ?
+Aug 3, 4:11 PM
+
+USER
+à l'extérieur
+Aug 3, 4:12 PM
+AGENT
+Entendu, je comprends que l'engorgement est à l'extérieur de votre habitation. C'est bien ça ?
+Aug 3, 4:12 PM
+
+USER
+Event
+Aug 3, 4:12 PM
+AGENT
+No matched intent
+Aug 3, 4:12 PM
+
+USER
+oui
+Aug 3, 4:12 PM
+AGENT
+Très bien. L'adresse d'intervention est le route departeme 952 04360 moustiers ste marie, est-ce correct ?
+Aug 3, 4:12 PM
+
+USER
+oui
+Aug 3, 4:13 PM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez être contacté par un professionnel dans les 2 heures pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espac

@@ -1,0 +1,40 @@
+WELCOME
+Event
+Aug 3, 6:39 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de till yves schaap, je vous écoute ?</s></p></speak>
+Aug 3, 6:39 PM
+
+USER
+oui
+Aug 3, 6:39 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 6:39 PM
+
+USER
+de chasse-d'eau est depuis tu
+Aug 3, 6:39 PM
+AGENT
+C'est noté. S'agit-il d'un WC avec réservoir encastré ? Avec réservoir apparent ? ou est-ce un sanibroyeur ?
+Aug 3, 6:39 PM
+
+USER
+réservoir parent
+Aug 3, 6:39 PM
+AGENT
+Entendu, je comprends qu'il s'agit d'un Réservoir apparent. C'est bien ça ?
+Aug 3, 6:39 PM
+
+USER
+oui
+Aug 3, 6:40 PM
+AGENT
+Très bien. L'adresse d'intervention est le lieu dit beg sable 22610 lanmodez, est-ce correct ?
+Aug 3, 6:40 PM
+
+USER
+oui
+Aug 3, 6:40 PM
+AGENT
+Merci. Votre demande a bien été prise en compte. HomeServe s'occupe de tout. Vous allez recevoir un SMS de notre part. Notre prestataire va vous rappeler dès demain matin pour prendre rendez-vous. Vous pouvez suivre votre intervention depuis votre espace client sur homeserve.fr. Merci. Bonne soirée.

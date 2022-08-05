@@ -1,0 +1,26 @@
+WELCOME
+Event
+Aug 3, 11:45 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de philippe pourret, je vous écoute ?</s></p></speak>
+Aug 3, 11:45 AM
+
+USER
+oui
+Aug 3, 11:45 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 11:45 AM
+
+USER
+robinetterie
+Aug 3, 11:45 AM
+AGENT
+Très bien. Est-ce un robinet d'arrêt ?
+Aug 3, 11:45 AM
+
+USER
+sais comment je sais que c'est un bouchon de lavabo
+Aug 3, 11:45 AM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

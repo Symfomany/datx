@@ -1,0 +1,60 @@
+WELCOME
+Event
+Aug 4, 11:27 AM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de jean claude szarindar, je vous écoute ?</s></p></speak>
+Aug 4, 11:27 AM
+
+USER
+oui
+Aug 4, 11:27 AM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 4, 11:27 AM
+
+USER
+robinet Tori frites
+Aug 4, 11:28 AM
+AGENT
+Aug 4, 11:28 AM
+
+USER
+voilà
+Aug 4, 11:28 AM
+AGENT
+No matched intent
+Aug 4, 11:28 AM
+
+USER
+oui
+Aug 4, 11:28 AM
+AGENT
+C'est noté. Est-ce à l'intérieur de votre logement ou à l'extérieur, comme dans une cour ou un jardin ?
+Aug 4, 11:28 AM
+
+USER
+intérieur
+Aug 4, 11:28 AM
+AGENT
+Entendu. Est-ce un robinet d'arrêt d'alimentation des WC ?
+Aug 4, 11:28 AM
+
+USER
+snow
+Aug 4, 11:28 AM
+AGENT
+No matched intent
+Aug 4, 11:28 AM
+
+USER
+non
+Aug 4, 11:29 AM
+AGENT
+Aug 4, 11:29 AM
+
+USER
+redirect-agent
+Event
+Aug 4, 11:29 AM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.

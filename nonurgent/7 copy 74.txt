@@ -1,0 +1,26 @@
+WELCOME
+Event
+Aug 3, 2:32 PM
+AGENT
+<speak><p><s>Bonjour, je suis votre assistant vocal HomeServe. Je vais vous accompagner dans votre diagnostic, étape par étape. Pouvez-vous me confirmer que votre contrat est bien au nom de james lesieur, je vous écoute ?</s></p></speak>
+Aug 3, 2:32 PM
+
+USER
+oui
+Aug 3, 2:32 PM
+AGENT
+Très bien. Commençons le diagnostic. Merci de préciser s'il s'agit d'un problème d'engorgement ? de fuite ? de robinetterie ? ou de chasse d'eau ?
+Aug 3, 2:32 PM
+
+USER
+chasse d'eau
+Aug 3, 2:33 PM
+AGENT
+C'est noté. S'agit-il d'un WC avec réservoir encastré ? Avec réservoir apparent ? ou est-ce un sanibroyeur ?
+Aug 3, 2:33 PM
+
+USER
+encastré
+Aug 3, 2:33 PM
+AGENT
+Entendu. Merci de patienter, un chargé d'assistance va prendre votre appel.
